@@ -1,6 +1,6 @@
 # Number System Converter
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]()
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/number-system/number-system/blob/master/LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/number-system/number-system/blob/master/README.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/number-system)
@@ -44,7 +44,7 @@ pip install numbersystem
 
 
 ## Quick Start
-To start converting with help of `numbersystem` . The following workflow can be used:
+To start converting with help of `numbersystem` [PIP](https://pypi.org/project/numbersystem/) . The following workflow can be used:
 
 ```
 import numbersystem
@@ -89,6 +89,42 @@ For more information about how to use `numbersystem`, see our suggested **[templ
   ```
   import numbersystem
   numbersystem.binaryToHexa(enter_your_number)
+  
+  ```
+ 7. For Octal to Decimal
+  ```
+  import numbersystem
+  numbersystem.octalToDecimal(enter_your_number)
+  
+  ```
+ 8. For Octal to Binary
+  ```
+  import numbersystem
+  numbersystem.octalToBinary(enter_your_number)
+  
+  ```
+ 9. For Octal to Hexadecimal
+  ```
+  import numbersystem
+  numbersystem.octalToHexa(enter_your_number)
+  
+  ```
+ 10. For Hexadecimal to Decimal
+  ```
+  import numbersystem
+  numbersystem.hexaToDecimal(enter_your_number)
+  
+  ```
+ 11. For Hexadecimal to Binary
+  ```
+  import numbersystem
+  numbersystem.hexaToBinary(enter_your_number)
+  
+  ```
+ 12. For Hexadecimal to Octal
+  ```
+  import numbersystem
+  numbersystem.hexaToOctal(enter_your_number)
   
   ```
 
