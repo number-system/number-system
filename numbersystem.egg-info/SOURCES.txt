@@ -1,0 +1,7 @@
+README.md
+setup.py
+numbersystem/__init__.py
+numbersystem.egg-info/PKG-INFO
+numbersystem.egg-info/SOURCES.txt
+numbersystem.egg-info/dependency_links.txt
+numbersystem.egg-info/top_level.txt
