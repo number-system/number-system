@@ -16,6 +16,7 @@
 - [Types](##-Types)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
+- [How To Use](#-howToUse)
 - [Contribute](#-contribute)
 - [Developers and Maintainers](#-developers-and-maintainers)
 - [Copyright](#-copyright)
@@ -52,6 +53,44 @@ numbersystem.decimalToBinary(25)
 
 ```
 For more information about how to use `numbersystem`, see our suggested **[template](https://github.com/number-system/number-system/blob/master/README.md)**.
+
+## How To Use
+ 1. For Decimal to Binary
+  ```
+  import numbersystem
+  numbersystem.decimalToBinary(enter_your_number)
+  
+  ```
+ 2. For Decimal to Octal
+  ```
+  import numbersystem
+  numbersystem.decimalToOctal(enter_your_number)
+  
+  ```
+ 3. For Decimal to Hexadecimal
+  ```
+  import numbersystem
+  numbersystem.decimalToHexa(enter_your_number)
+  
+  ```
+ 4. For Binary to Decimal
+  ```
+  import numbersystem
+  numbersystem.binaryToDecimal(enter_your_number)
+  
+  ```
+ 5. For Binary to Octal
+  ```
+  import numbersystem
+  numbersystem.binaryToOctal(enter_your_number)
+  
+  ```
+ 6. For Binary to Hexadecimal
+  ```
+  import numbersystem
+  numbersystem.binaryToHexa(enter_your_number)
+  
+  ```
 
 
 ## Contribute
